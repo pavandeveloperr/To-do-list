@@ -1,5 +1,5 @@
 # **To Do List**
 
-A simple To Do List app made with HTML, CSS and JavaScript 
+A simple To Do List app made with Using Html, css, javaScript.
 
-<a href="https://zakariyaq313.github.io/to_do_list/"><img src="images/preview.png"></a>
+[**Visit Here🌐**](https://pavandeveloperr.github.io/To-do-list/)
